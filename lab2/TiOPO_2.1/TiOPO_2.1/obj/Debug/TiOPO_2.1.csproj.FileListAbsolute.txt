@@ -1,0 +1,7 @@
+C:\Users\dpogo\source\repos\TiOPO_2.1\TiOPO_2.1\bin\Debug\TiOPO_2.1.exe.config
+C:\Users\dpogo\source\repos\TiOPO_2.1\TiOPO_2.1\bin\Debug\TiOPO_2.1.exe
+C:\Users\dpogo\source\repos\TiOPO_2.1\TiOPO_2.1\bin\Debug\TiOPO_2.1.pdb
+C:\Users\dpogo\source\repos\TiOPO_2.1\TiOPO_2.1\obj\Debug\TiOPO_2.1.csproj.AssemblyReference.cache
+C:\Users\dpogo\source\repos\TiOPO_2.1\TiOPO_2.1\obj\Debug\TiOPO_2.1.csproj.CoreCompileInputs.cache
+C:\Users\dpogo\source\repos\TiOPO_2.1\TiOPO_2.1\obj\Debug\TiOPO_2.1.exe
+C:\Users\dpogo\source\repos\TiOPO_2.1\TiOPO_2.1\obj\Debug\TiOPO_2.1.pdb
