@@ -1,0 +1,7 @@
+C:\Users\dpogo\source\repos\TiOPO_3\TiOPO_3\bin\Debug\TiOPO_3.exe.config
+C:\Users\dpogo\source\repos\TiOPO_3\TiOPO_3\bin\Debug\TiOPO_3.exe
+C:\Users\dpogo\source\repos\TiOPO_3\TiOPO_3\bin\Debug\TiOPO_3.pdb
+C:\Users\dpogo\source\repos\TiOPO_3\TiOPO_3\obj\Debug\TiOPO_3.csproj.AssemblyReference.cache
+C:\Users\dpogo\source\repos\TiOPO_3\TiOPO_3\obj\Debug\TiOPO_3.csproj.CoreCompileInputs.cache
+C:\Users\dpogo\source\repos\TiOPO_3\TiOPO_3\obj\Debug\TiOPO_3.exe
+C:\Users\dpogo\source\repos\TiOPO_3\TiOPO_3\obj\Debug\TiOPO_3.pdb

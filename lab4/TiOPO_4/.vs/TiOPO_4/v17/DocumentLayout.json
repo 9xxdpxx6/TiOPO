@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dpogo\\source\\repos\\TiOPO_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{186E1EDF-033F-4EFA-A915-F7B8AD4A1A01}|TiOPO_4\\TiOPO_4.csproj|c:\\users\\dpogo\\source\\repos\\tiopo_4\\tiopo_4\\stringmergertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186E1EDF-033F-4EFA-A915-F7B8AD4A1A01}|TiOPO_4\\TiOPO_4.csproj|solutionrelative:tiopo_4\\stringmergertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186E1EDF-033F-4EFA-A915-F7B8AD4A1A01}|TiOPO_4\\TiOPO_4.csproj|c:\\users\\dpogo\\source\\repos\\tiopo_4\\tiopo_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186E1EDF-033F-4EFA-A915-F7B8AD4A1A01}|TiOPO_4\\TiOPO_4.csproj|solutionrelative:tiopo_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{186E1EDF-033F-4EFA-A915-F7B8AD4A1A01}|TiOPO_4\\TiOPO_4.csproj|c:\\users\\dpogo\\source\\repos\\tiopo_4\\tiopo_4\\stringmerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{186E1EDF-033F-4EFA-A915-F7B8AD4A1A01}|TiOPO_4\\TiOPO_4.csproj|solutionrelative:tiopo_4\\stringmerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringMerger.cs",
+              "DocumentMoniker": "C:\\Users\\dpogo\\source\\repos\\TiOPO_4\\TiOPO_4\\StringMerger.cs",
+              "RelativeDocumentMoniker": "TiOPO_4\\StringMerger.cs",
+              "ToolTip": "C:\\Users\\dpogo\\source\\repos\\TiOPO_4\\TiOPO_4\\StringMerger.cs",
+              "RelativeToolTip": "TiOPO_4\\StringMerger.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:45:11.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringMergerTests.cs",
+              "DocumentMoniker": "C:\\Users\\dpogo\\source\\repos\\TiOPO_4\\TiOPO_4\\StringMergerTests.cs",
+              "RelativeDocumentMoniker": "TiOPO_4\\StringMergerTests.cs",
+              "ToolTip": "C:\\Users\\dpogo\\source\\repos\\TiOPO_4\\TiOPO_4\\StringMergerTests.cs",
+              "RelativeToolTip": "TiOPO_4\\StringMergerTests.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:43:35.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dpogo\\source\\repos\\TiOPO_4\\TiOPO_4\\Program.cs",
+              "RelativeDocumentMoniker": "TiOPO_4\\Program.cs",
+              "ToolTip": "C:\\Users\\dpogo\\source\\repos\\TiOPO_4\\TiOPO_4\\Program.cs",
+              "RelativeToolTip": "TiOPO_4\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:42:23.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
