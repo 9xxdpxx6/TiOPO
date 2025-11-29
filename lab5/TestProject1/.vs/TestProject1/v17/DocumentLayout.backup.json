@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u04305\\.vs\\testproject1\\testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|solutionrelative:testproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u04305\\.vs\\testproject1\\stringmergertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|solutionrelative:stringmergertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u04305\\.vs\\testproject1\\pointcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|solutionrelative:pointcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u04305\\.vs\\testproject1\\pointchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|solutionrelative:pointchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u04305\\.vs\\testproject1\\stringmerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE015D01-1864-43CB-AEFA-883D07DA2AA5}|TestProject1.csproj|solutionrelative:stringmerger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestProject1",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\TestProject1.csproj",
+              "RelativeDocumentMoniker": "TestProject1.csproj",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\TestProject1.csproj",
+              "RelativeToolTip": "TestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-28T21:19:02.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringMergerTests.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\StringMergerTests.cs",
+              "RelativeDocumentMoniker": "StringMergerTests.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\StringMergerTests.cs",
+              "RelativeToolTip": "StringMergerTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:06:37.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointChecker.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\PointChecker.cs",
+              "RelativeDocumentMoniker": "PointChecker.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\PointChecker.cs",
+              "RelativeToolTip": "PointChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:04:48.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringMerger.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\StringMerger.cs",
+              "RelativeDocumentMoniker": "StringMerger.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\StringMerger.cs",
+              "RelativeToolTip": "StringMerger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:04:37.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointCheckerTests.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\PointCheckerTests.cs",
+              "RelativeDocumentMoniker": "PointCheckerTests.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04305\\.vs\\TestProject1\\PointCheckerTests.cs",
+              "RelativeToolTip": "PointCheckerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:04:01.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

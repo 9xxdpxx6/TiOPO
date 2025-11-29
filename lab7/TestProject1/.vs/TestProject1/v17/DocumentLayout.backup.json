@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04307\\TestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{375A8746-4625-4C75-811B-B7E82E04B733}|TestProject1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u04307\\testproject1\\dequetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375A8746-4625-4C75-811B-B7E82E04B733}|TestProject1.csproj|solutionrelative:dequetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{375A8746-4625-4C75-811B-B7E82E04B733}|TestProject1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u04307\\testproject1\\deque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{375A8746-4625-4C75-811B-B7E82E04B733}|TestProject1.csproj|solutionrelative:deque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deque.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04307\\TestProject1\\Deque.cs",
+              "RelativeDocumentMoniker": "Deque.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04307\\TestProject1\\Deque.cs*",
+              "RelativeToolTip": "Deque.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:35:14.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DequeTests.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04307\\TestProject1\\DequeTests.cs",
+              "RelativeDocumentMoniker": "DequeTests.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u04307\\TestProject1\\DequeTests.cs*",
+              "RelativeToolTip": "DequeTests.cs*",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T08:34:41.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
