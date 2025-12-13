@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E37BC1D5-E789-4075-B546-545168BB6187}|..\\TestProject2\\TestProject2.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u043012\\testproject2\\areatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u043012\\classlibrary1\\iarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|solutionrelative:iarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u043012\\classlibrary1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u043012\\classlibrary1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u043012\\classlibrary1\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|solutionrelative:square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u043012\\classlibrary1\\squarewithcircles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|solutionrelative:squarewithcircles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|d:\\\u0443\u043D\u0438\u0432\u0435\u0440\\\u0442\u0438\u043E\u043F\u043E\\\u043B\u0430\u0431\u043012\\classlibrary1\\complexarea .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C1C756-7483-43B3-BDAD-0E1F4E85CE8E}|ClassLibrary1.csproj|solutionrelative:complexarea .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaTests.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\TestProject2\\AreaTests.cs",
+              "RelativeDocumentMoniker": "..\\TestProject2\\AreaTests.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\TestProject2\\AreaTests.cs",
+              "RelativeToolTip": "..\\TestProject2\\AreaTests.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA2wGkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:36:32.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArea.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\IArea.cs",
+              "RelativeDocumentMoniker": "IArea.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\IArea.cs",
+              "RelativeToolTip": "IArea.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:34:50.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\Square.cs",
+              "RelativeDocumentMoniker": "Square.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\Square.cs",
+              "RelativeToolTip": "Square.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:33:02.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Rectangle.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\Rectangle.cs",
+              "RelativeToolTip": "Rectangle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:32:36.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\Circle.cs",
+              "RelativeToolTip": "Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:32:15.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SquareWithCircles.cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\SquareWithCircles.cs",
+              "RelativeDocumentMoniker": "SquareWithCircles.cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\SquareWithCircles.cs",
+              "RelativeToolTip": "SquareWithCircles.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:31:52.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComplexArea .cs",
+              "DocumentMoniker": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\ComplexArea .cs",
+              "RelativeDocumentMoniker": "ComplexArea .cs",
+              "ToolTip": "D:\\\u0423\u043D\u0438\u0432\u0435\u0440\\\u0422\u0438\u041E\u041F\u041E\\\u043B\u0430\u0431\u043012\\ClassLibrary1\\ComplexArea .cs",
+              "RelativeToolTip": "ComplexArea .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:30:36.909Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

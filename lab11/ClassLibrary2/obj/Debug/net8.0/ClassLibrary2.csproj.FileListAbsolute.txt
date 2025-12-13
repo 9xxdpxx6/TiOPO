@@ -1,0 +1,11 @@
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.deps.json
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfoInputs.cache
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfo.cs
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.dll
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.pdb
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.dll
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\obj\Debug\net8.0\refint\ClassLibrary2.dll
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.pdb
+D:\Универ\ТиОПО\лаба11\ClassLibrary2\obj\Debug\net8.0\ref\ClassLibrary2.dll
